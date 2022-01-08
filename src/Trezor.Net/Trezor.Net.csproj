@@ -28,7 +28,7 @@ https://github.com/MelbourneDeveloper/Trezor.Net/projects/4</PackageReleaseNotes
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <OutputPath>C:\GitRepos\Trezor.Net\NuGet\</OutputPath>
+    <OutputPath></OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
